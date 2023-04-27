@@ -2,4 +2,4 @@ repositories:
   src/basalt_wrapper/basalt:
     type: git
     url: https://github.com/Reifly-io/basalt_jp.git
-    version: cmake_export_libraries
+    version: main
